@@ -42,13 +42,7 @@ function App() {
             path="*"
             element={
               <Layout>
-                <Error>
-                  {
-                    <>
-                      <h1>OOps something went Wrong!!!</h1>
-                    </>
-                  }
-                </Error>
+                <Error>404</Error>
               </Layout>
             }
           />
