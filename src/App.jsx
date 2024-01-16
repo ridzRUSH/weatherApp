@@ -7,7 +7,7 @@ import Layout from "./components/Layout";
 import HomePage from "./components/HomePage";
 import Search from "./components/Search";
 import About from "./components/About";
-import Error from "./components/error";
+import Error from "./components/Error";
 
 function App() {
   return (
